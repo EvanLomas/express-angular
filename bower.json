@@ -1,0 +1,27 @@
+{
+  "name": "express-angular",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Zeus3rd"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/zeus3rd/express-angular",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0",
+    "lodash": "^4.5.0",
+    "lodash-angular-wrapper": "*",
+    "angular-ui-router": "^0.2.18",
+    "angular-animate": "^1.5.0",
+    "jquery": "^2.2.0"
+  }
+}
